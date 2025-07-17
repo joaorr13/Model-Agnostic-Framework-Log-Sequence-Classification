@@ -23,8 +23,5 @@ To use this framework, follow these steps:
 1. **Training the Model**:
    - Run the `train.ipynb` Jupyter notebook to fine-tune the selected LLM on normal log sequences.
 
-2. **Determining the Value of K**:
-   - Run the `get_k.ipynb` Jupyter notebook to compute the optimal value of K for Top-K prediction.
-
-3. **Testing the Model**:
+2. **Testing the Model**:
    - Run the `test.ipynb` Jupyter notebook to evaluate the trained model on the test dataset (do not forget to change the K to the one obtained in the get_k.ipynb).
